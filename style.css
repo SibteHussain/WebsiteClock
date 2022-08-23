@@ -23,5 +23,11 @@ body {
     background-color: rgb(69, 69, 245);
     border-style: none;
     height: 50px;
-    width: 100%;
+    width: 100px;
+    border-radius: 50px;
+    color: white;
+    transition: 0.3s;
+}
+.StopwatchButton:hover{
+    box-shadow: 0px 5px 10px black;
 }
