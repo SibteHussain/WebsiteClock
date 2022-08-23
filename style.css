@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(248, 240, 227);
+
+    font-family: 'Bebas Neue';
+}
+
+.flexbox{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 128, 128);
+    font-weight: bold;
+    font-size: 30px;
+}
+.time{
+    font-size: 40px;
+    margin-left: 100px;
+}
+.StopwatchButton{
+    margin-right: 170px;
+    background-color: rgb(69, 69, 245);
+    border-style: none;
+    height: 50px;
+    width: 100%;
+}
